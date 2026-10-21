@@ -1,0 +1,10 @@
+streamlit>=1.32
+pandas>=2.0
+numpy>=1.24
+plotly>=5.18
+reportlab>=4.0
+Pillow>=10.0
+
+# Optional: AI advisor & receipt scanning (install at least one to enable AI features)
+google-genai>=0.3
+openai>=1.0
